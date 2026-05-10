@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Cyberpunk 2077",
+    "Description": "Open World RPG",
+    "CoverUrl": "https://cdn.jsdelivr.net/gh/MohamedElHanoun/PXS@main/PXS_Cover/CP_Cover.jpg",
+    "PackageUrl": ""
+  },
+
+  {
+    "Name": "Far Cry 6",
+    "Description": "Action Adventure",
+    "CoverUrl": "https://cdn.jsdelivr.net/gh/MohamedElHanoun/PXS@main/PXS_Cover/FC6_Cover.png",
+    "PackageUrl": ""
+  },
+
+  {
+    "Name": "The Last Of Us Part II",
+    "Description": "Story Adventure",
+    "CoverUrl": "https://cdn.jsdelivr.net/gh/MohamedElHanoun/PXS@main/PXS_Cover/TLOS_Cover.jpg",
+    "PackageUrl": ""
+  }
+]
