@@ -4,7 +4,7 @@
     "Description": "Open World RPG",
     "CoverUrl": "https://cdn.jsdelivr.net/gh/MohamedElHanoun/PXS@main/PXS_Cover/CP_Cover.jpg",
     "PackageUrl": ""
-     PostUrl = "https://www.patreon.com/posts/cyberpunk-2077-141512382?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"
+    "PostUrl": "https://www.patreon.com/posts/cyberpunk-2077-141512382?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"
   },
 
   {
@@ -12,7 +12,7 @@
     "Description": "Action Adventure",
     "CoverUrl": "https://cdn.jsdelivr.net/gh/MohamedElHanoun/PXS@main/PXS_Cover/FC6_Cover.png",
     "PackageUrl": ""
-    PostUrl = "https://www.patreon.com/posts/farcry-6-premium-120323694?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"
+    "PostUrl": "https://www.patreon.com/posts/farcry-6-premium-120323694?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"
   },
 
   {
@@ -20,6 +20,6 @@
     "Description": "Story Adventure",
     "CoverUrl": "https://cdn.jsdelivr.net/gh/MohamedElHanoun/PXS@main/PXS_Cover/TLOS_Cover.jpg",
     "PackageUrl": ""
-    PostUrl = "https://www.patreon.com/posts/123456789"
+    "PostUrl": "https://www.patreon.com/posts"
   }
 ]
